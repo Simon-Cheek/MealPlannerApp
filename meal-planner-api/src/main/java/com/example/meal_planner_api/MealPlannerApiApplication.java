@@ -1,13 +1,13 @@
-package com.example.meal_planner;
+package com.example.meal_planner_api;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MealPlannerApplication {
+public class MealPlannerApiApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MealPlannerApplication.class, args);
+		SpringApplication.run(MealPlannerApiApplication.class, args);
 	}
 
 }
